@@ -26,17 +26,17 @@ The core of what we wanted the students to learn was the fundamental theory of m
 # Organization of This Repo
 Each directory in this repository contains a ReadMe file explaining its contents. Here we will provide an overview of each directory, alongside a link to it
 
-## Lecture Slides
+## <a href="https://github.com/Mabdel-03/MIT_GTL_Morocco_IEG/tree/main/Lecture_Slides"> /Lecture_Slides </a>
 Contains all of the lecture slides for this course. Lectures were the primary medium through which the course's content was administered to the students. Unfortunately, there are no lecture recordings. Please reach out to Mahmoud (mabdel03@mit.edu) if you have any questions about the lectures' content. 
 
-## Regression_Exercises
+## <a href="https://github.com/Mabdel-03/MIT_GTL_Morocco_IEG/tree/main/Regression_Exercises"> /Regression_Exercises </a>
 Contains exercises that consist of python implementations of regression models for different datasets. Directory also contains instructions for the exercises, alongside a template of the code for students to fill out with their exercise alongside an example answer key. Associated w/ Lecture Day 1.
 
-## Classification_Exercises
+## <a href="https://github.com/Mabdel-03/MIT_GTL_Morocco_IEG/tree/main/Classification_Exercises"> /Classification_Exercises </a>
 Contains exercises that consist of python implementations of classification models for different datasets. Directory also contains instructions for the exercises, alongside a template of the code for students to fill out with their exercise alongside an example answer key. Associated w/ Lecture Day 2.
 
-## Deep_Learning_Exercises
+## <a href="https://github.com/Mabdel-03/MIT_GTL_Morocco_IEG/tree/main/Deep_Learning_Exercises"> /Deep_Learning_Exercises </a>
 Contains OPTIONAL exercises that consist of python implementations of two deep learning model for the MNIST handwritten letters dataset. Directory also contains instructions for the exercises, alongside a template of the code for students to fill out with their exercise alongside an example answer key. Associated w/ Lecture Day 3.
 
-## FIFAWorldCup_Predictions_Exercise
+## <a href="https://github.com/Mabdel-03/MIT_GTL_Morocco_IEG/tree/main/FIFAWorldCup_Predictions_Exercise"> /FIFAWorldCup_Predictions_Exercise </a>
 Contains OPTIONAL exercises that consist of python implementations of a machine learning model for a FIFA Worldcup results dataset. Directory also contains instructions for the exercises, alongside a template of the code for students to fill out with their exercise alongside an example answer key. Associated w/ Lecture Day 3.
