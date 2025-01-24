@@ -24,7 +24,19 @@ The core of what we wanted the students to learn was the fundamental theory of m
 4. Develop an understanding of what problems are suitable for solution via machine learning, and what machine learning solutions are optimal for what problems. Develop a systematic framework for going from a problem to a machine learning based solution.
 
 # Organization of This Repo
-XX
+Each directory in this repository contains a ReadMe file explaining its contents. Here we will provide an overview of each directory, alongside a link to it
 
-# Recommended Additional Resources
-XX
+## Lecture Slides
+Contains all of the lecture slides for this course. Lectures were the primary medium through which the course's content was administered to the students. Unfortunately, there are no lecture recordings. Please reach out to Mahmoud (mabdel03@mit.edu) if you have any questions about the lectures' content. 
+
+## Regression_Exercises
+Contains exercises that consist of python implementations of regression models for different datasets. Directory also contains instructions for the exercises, alongside a template of the code for students to fill out with their exercise alongside an example answer key. Associated w/ Lecture Day 1.
+
+## Classification_Exercises
+Contains exercises that consist of python implementations of classification models for different datasets. Directory also contains instructions for the exercises, alongside a template of the code for students to fill out with their exercise alongside an example answer key. Associated w/ Lecture Day 2.
+
+## Deep_Learning_Exercises
+Contains OPTIONAL exercises that consist of python implementations of two deep learning model for the MNIST handwritten letters dataset. Directory also contains instructions for the exercises, alongside a template of the code for students to fill out with their exercise alongside an example answer key. Associated w/ Lecture Day 3.
+
+## FIFAWorldCup_Predictions_Exercise
+Contains OPTIONAL exercises that consist of python implementations of a machine learning model for a FIFA Worldcup results dataset. Directory also contains instructions for the exercises, alongside a template of the code for students to fill out with their exercise alongside an example answer key. Associated w/ Lecture Day 3.
